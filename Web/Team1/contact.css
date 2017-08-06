@@ -18,7 +18,7 @@ html{
   border-radius:6px 6px 0px 0px;
   color:#666;
 }
-h2 {
+h3 {
   text-align:center;
   padding:18px 0 18px 0;
   font-size: 1.4em;
@@ -27,7 +27,7 @@ input {
   margin-bottom:10px;
 }
 textarea {
-  height:100px;
+  height:200px;
   margin-bottom:10px;
 }
 input:first-of-type
@@ -38,7 +38,7 @@ input, textarea {
   font-size: 1em;
   padding: 15px 10px 10px;
   font-family:arial;
-  border: 1px solid #cecece;
+  border: 1px solid;
   color:#666;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
