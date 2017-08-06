@@ -1,10 +1,12 @@
+
+/* Main Menu */
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding-top: 290px;
     overflow: hidden;
     background-color: #ffff;
-	/*border: 1px solid #555;*/
+	/*border-top-style: solid;*/
 }
 
 li {
@@ -13,8 +15,11 @@ li {
 
 li a {
     display: block;
-    color: black;
+    color: #ffffff;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 24px;
     text-align: center;
+	font-weight: bold;
     padding: 25px 26px;
     text-decoration: none;
 }
@@ -26,6 +31,15 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
+
+/* End Main Menu*/
+
+img {
+    position: absolute;
+    z-index: -1;
+}
+
+/* side menu */
 
 .vertical-menu {
     width: 200px; /* Set a width if you like */
@@ -47,3 +61,5 @@ li a:hover:not(.active) {
     background-color: #4CAF50; /* Add a green color to the "active/current" link */
     color: white;
 }
+
+/* End side menu*/
