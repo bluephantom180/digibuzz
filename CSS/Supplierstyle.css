@@ -12,11 +12,11 @@ ul.topnav li {
     float: right;
 }
 
-ul.topnavli a {
+ul.topnav li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 25px 50px;
+    padding: 5px 20px;
     text-decoration: none;
 }
 
@@ -24,7 +24,7 @@ ul.topnav li a:hover:not(.active) {
     background-color: #367c39;
 }
 
-ul.topnav a.active {
+ul.topnav .active {
     background-color: #367c39;
 }
 
@@ -38,6 +38,7 @@ ul.bottomnav {
     padding: 0;
     width: 200px;
     background-color: #f1f1f1;
+	position:fixed;
 }
 
 ul.bottomnav li a {
