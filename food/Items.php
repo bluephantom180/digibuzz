@@ -51,32 +51,78 @@
 
 <!-- End Header Section -->
 
-<!-- Items Section -->
+<!-- Items Menu Section -->
 
 <section class="saction4">
 	<div class="container">
 	<div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
+  <button class="dropbtn active">Rice</button>
   <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
+    <a href="#">Basmathi</a>
+    <a href="#">Fully Polished</a>
+    <a href="#">Semi Polished</a>
+    <a href="#">Unpolished</a>
   </div>
 </div>
 
 <div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
+  <button class="dropbtn">Vegetables</button>
   <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
+    <a href="#">Potato</a>
+    <a href="#">Oninon</a>
+    <a href="#">Tomato</a>
+    <a href="#">Carrot</a>
+    <a href="#">Raddish</a>
+    <a href="#">Beetroot</a>
+    <a href="#">...</a>
   </div>
 </div>
+
+<div class="dropdown">
+  <button class="dropbtn">Pulses</button>
+  <div class="dropdown-content">
+    <a href="#">Green Gram</a>
+    <a href="#">Green Peas</a>
+    <a href="#">Penuts</a>
+    <a href="#">Dhal</a>
+    <a href="#">Urad Dhal</a>
+    <a href="#">Moong Dhal</a>
+    <a href="#">Lobia</a>
+    <a href="#">...</a>
+  </div>
 </div>
 
-</section>	
-<!-- End Items Section -->
+<div class="dropdown">
+  <button class="dropbtn">Milk Products</button>
+  <div class="dropdown-content">
+    <a href="#">Milk</a>
+    <a href="#">Ghee</a>
+	<a href="#">Butter</a>
+    <a href="#">Cheese</a>
+  </div>
+</div>
 
+</div>
+<!-- End Items Menu Section -->
+
+<!-- Types -->
+
+<div class="container">
+	<div class="brdr clearfix">
+		<span style="padding-left:50px"></span>
+		<img class="img2" src="images/bs.png" alt="" width="200" height="200">
+		<span style="font-weight:bold;padding-left:15px">Basmathi Rice </span>
+	</div>
+	<span style="padding-left:50px"></span>
+	<div class="brdr clearfix">
+		<img class="img2" src="images/bs.png" alt="" width="200" height="200">
+		<span style="font-weight:bold;padding-left:15px">Basmathi Rice </span>
+	</div>
+	
+</div>
+
+<!-- End Types -->
+</section>
 <!-- Footer Section -->
 
 <footer class="saction8">
