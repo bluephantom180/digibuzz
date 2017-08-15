@@ -5,6 +5,7 @@
 <title>Organo</title>
 <link href='https://fonts.googleapis.com/css?family=Lobster+Two:400,700' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,700' rel='stylesheet' type='text/css' />
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 
 <!--MOBILE DEVICE-->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
@@ -104,19 +105,33 @@
 
 </div>
 <!-- End Items Menu Section -->
-
+<br>
 <!-- Types -->
 
 <div class="container">
 	<div class="brdr clearfix">
-		<span style="padding-left:50px"></span>
-		<img class="img2" src="images/bs.png" alt="" width="200" height="200">
-		<span style="font-weight:bold;padding-left:15px">Basmathi Rice </span>
+		<img class="img2" src="images/bs.png" alt="" width="150px" height="175px"><br>
+		<h5><span style="padding-top:50px;padding-left:15px;">Basmathi Rice</h5></span>
+		<h6><span style="padding-left:15px; color:#bfbfbf;vertical-align:middle"> Long and beautiful </h6></span>
+		<button> - <input class="tb" type="text" name="quantity"> + </button>
 	</div>
 	<span style="padding-left:50px"></span>
 	<div class="brdr clearfix">
-		<img class="img2" src="images/bs.png" alt="" width="200" height="200">
-		<span style="font-weight:bold;padding-left:15px">Basmathi Rice </span>
+		<img class="img2" src="images/bs.png" alt="" width="150" height="175px"><br>
+		<h5><span style="padding-left:15px;">Polished Rice</h5></span>
+		<h6><span style="padding-left:15px; color:#bfbfbf;">Beautiful White Rice</h6></span>
+		
+	</div><br><br>
+	<div class="brdr clearfix">
+		<img class="img2" src="images/bs.png" alt="" width="150" height="175px"><br>
+		<h5><span style="padding-left:15px;">Semi-Polished Rice</h5> </span>
+		<h6><span style="padding-left:15px; color:#bfbfbf;">Perfect for people undergoing dieting</h6></span>
+	</div>
+		<span style="padding-left:50px"></span>
+	<div class="brdr clearfix">
+		<img class="img2" src="images/bs.png" alt="" width="150" height="175px"><br>
+		<h5><span style="padding-left:15px;">Unpolished Rice</h5> </span>
+		<h6><span style="padding-left:15px;color:#bfbfbf;">Unpolished Brown Rice</h6></span>
 	</div>
 	
 </div>
