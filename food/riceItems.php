@@ -57,7 +57,7 @@
 <section class="saction4">
 	<div class="container">
 	<div class="dropdown">
-  <button class="dropbtn active">Rice</button>
+  <button class="dropbtn active"><a href="riceItems.php">Rice</a></button>
   <div class="dropdown-content">
     <a href="#">Basmathi</a>
     <a href="#">Fully Polished</a>
@@ -67,7 +67,7 @@
 </div>
 
 <div class="dropdown">
-  <button class="dropbtn">Vegetables</button>
+  <button class="dropbtn" href="vegeitems.php">Vegetables</button>
   <div class="dropdown-content">
     <a href="#">Potato</a>
     <a href="#">Oninon</a>
@@ -80,7 +80,7 @@
 </div>
 
 <div class="dropdown">
-  <button class="dropbtn">Pulses</button>
+  <button class="dropbtn" href="pulses.php">Pulses</button>
   <div class="dropdown-content">
     <a href="#">Green Gram</a>
     <a href="#">Green Peas</a>
@@ -94,7 +94,7 @@
 </div>
 
 <div class="dropdown">
-  <button class="dropbtn">Milk Products</button>
+  <button class="dropbtn" href="milkitems.php">Milk Products</button>
   <div class="dropdown-content">
     <a href="#">Milk</a>
     <a href="#">Ghee</a>
@@ -110,31 +110,31 @@
 
 <div class="container">
 	<div class="brdr clearfix">
-		<img class="img2" src="images/bs.png" alt="" width="150px" height="179px"><br>
+		<img class="img2" src="images/bs.png" alt="" width="200px" height="138px"><br>
 		<h5><span style="padding-top:50px;padding-left:15px;">Basmathi Rice</h5></span>
-		<h6><span style="padding-left:15px; color:#bfbfbf;vertical-align:middle"> Long and beautiful </h6></span><br><br>
-		<span style="padding-left:110px;"><button><button> - </button><input class="tb" type="text" name="quantity"><button> + </button></button></span>
+		<h6><span style="padding-left:15px; color:#bfbfbf;vertical-align:middle"> Long and beautiful </h6></span><span style="padding-left:15px;">&#8377;50/kg</span>
+		<span style="padding-left:120px;"><button><button> - </button><input class="tb" type="text" name="quantity"><button> + </button></button></span>
 	</div>
 	<span style="padding-left:50px"></span>
 	<div class="brdr clearfix">
-		<img class="img2" src="images/bs.png" alt="" width="150" height="179px"><br>
+		<img class="img2" src="images/wr.png" alt="" width="200" height="138px"><br>
 		<h5><span style="padding-left:15px;">Polished Rice</h5></span>
-		<h6><span style="padding-left:15px; color:#bfbfbf;">Beautiful White Rice</h6></span><br><br>
-		<span style="padding-left:110px;"><button><button> - </button><input class="tb" type="text" name="quantity"><button> + </button></button></span>
+		<h6><span style="padding-left:15px; color:#bfbfbf;">Beautiful White Rice</h6></span><span style="padding-left:15px;">&#8377;50/kg</span>
+		<span style="padding-left:120px;"><button><button> - </button><input class="tb" type="text" name="quantity"><button> + </button></button></span>
 	</div>
 	<br><br>
 	<div class="brdr clearfix">
-		<img class="img2" src="images/bs.png" alt="" width="150" height="179px"><br>
+		<img class="img2" src="images/pr.png" alt="" width="200" height="138px"><br>
 		<h5><span style="padding-left:15px;">Semi-Polished Rice</h5> </span>
-		<h6><span style="padding-left:15px; color:#bfbfbf;">Perfect for people undergoing dieting</h6></span><br><br>
-		<span style="padding-left:110px;"><button><button> - </button><input class="tb" type="text" name="quantity"><button> + </button></button></span>
+		<h6><span style="padding-left:15px; color:#bfbfbf;">Ponni Rice</h6></span><span style="padding-left:15px;">&#8377;50/kg</span>
+		<span style="padding-left:120px;"><button><button> - </button><input class="tb" type="text" name="quantity"><button> + </button></button></span>
 	</div>
 		<span style="padding-left:50px"></span>
 	<div class="brdr clearfix">
-		<img class="img2" src="images/bs.png" alt="" width="150" height="179px"><br>
+		<img class="img2" src="images/br.png" alt="" width="200" height="138px"><br>
 		<h5><span style="padding-left:15px;">Unpolished Rice</h5></span>
-		<h6><span style="padding-left:15px;color:#bfbfbf;">Unpolished Brown Rice</h6></span><br><br>
-		<span style="padding-top:45px;padding-left:110px;"><button><button> - </button><input class="tb" type="text" name="quantity"><button> + </button></button></span>
+		<h6><span style="padding-left:15px;color:#bfbfbf;">Brown Rice</h6></span><span style="padding-left:15px;">&#8377;50/kg</span>
+		<span style="padding-left:120px;"><button><button> - </button><input class="tb" type="text" name="quantity"><button> + </button></button></span>
 	</div>
 	
 </div>

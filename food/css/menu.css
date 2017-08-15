@@ -48,7 +48,10 @@
     display: block;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {
+	background-color: #f1f1f1;
+	text-decoration: none;
+}
 
 .dropdown:hover .dropdown-content {
     display: block;
@@ -56,16 +59,17 @@
 
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
+	text-decoration: none;
 }
 
 .brdr {
     border: 1px solid white;
 	font-family: 'Montserrat', sans-serif;
-	font-size:18px;
+	font-size:15px;
 	color:#000;
 	background-color: white;
-	width: 543px;
-	height:181px;
+	width: 480px;
+	height:140px;
 	display:inline-block;
 	box-shadow: 10px 15px 5px #dcdcdc;
 }
@@ -88,4 +92,9 @@
 	width:25px;
 	height:25px;
 	margin: 10px 12px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
 }
