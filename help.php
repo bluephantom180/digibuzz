@@ -75,7 +75,7 @@
     </div>
     <div class="row">
       <div class="col-lg-3 col-md-3 col-sm-6">
-        <figure class="step os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.50s"> <img src="images/one.png" alt="" /> </figure>
+        <figure class="step os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.50s"> <img src="images/one(1).png" alt="" /> </figure>
         <div class="arrow" > <img src="images/arrow.png" alt="" /> </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-6">
