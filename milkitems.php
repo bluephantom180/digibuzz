@@ -38,7 +38,7 @@
     <div class="row clearfix" id="home">
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
         <div class="logo">
-          <h1> <a href="#"><img src="images/5.png" alt="" width="180px" height="80px"/></a> </h1>
+          <h1> <a href="new.html"><img src="images/5.png" alt="" width="180px" height="80px"/></a> </h1>
         </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
