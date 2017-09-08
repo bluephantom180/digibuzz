@@ -174,7 +174,7 @@
         <div class="sitelink">
           <ul>
             <li><span>&#10152;</span><a href="#">Contact Us</a></li>
-            <li><span>&#10152;</span><a href="#">FAQ</a></li>
+            <li><span>&#10152;</span><a href="#">Help & FAQ</a></li>
           </ul>
         </div>
       </div>
