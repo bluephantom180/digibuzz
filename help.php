@@ -2,10 +2,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Organo</title>
+<title>Organo | Help</title>
 <link href='https://fonts.googleapis.com/css?family=Lobster+Two:400,700' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,700' rel='stylesheet' type='text/css' />
 <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
 
 <!--MOBILE DEVICE-->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
@@ -52,103 +53,49 @@
 
 <!-- End Header Section -->
 
-<!-- Items Menu Section -->
+<!-- Steps Section -->
 
 <section class="saction4">
 	<div class="container">
-	<div class="dropdown">
-  <button class="dropbtn active"><a href="riceItems.php">Rice</a></button>
-  <div class="dropdown-content">
-    <a href="#">Basmathi</a>
-    <a href="#">Fully Polished</a>
-    <a href="#">Semi Polished</a>
-    <a href="#">Unpolished</a>
-  </div>
-</div>
-
-<div class="dropdown">
-  <button class="dropbtn"><a href="vegeitems.php">Vegetables</a></button>
-  <div class="dropdown-content">
-    <a href="#">Potato</a>
-    <a href="#">Oninon</a>
-    <a href="#">Tomato</a>
-    <a href="#">Carrot</a>
-    <a href="#">Raddish</a>
-    <a href="#">Beetroot</a>
-    <a href="#">...</a>
-  </div>
-</div>
-
-<div class="dropdown">
-  <button class="dropbtn"><a href="pulses.php">Pulses</a></button>
-  <div class="dropdown-content">
-    <a href="#">Green Gram</a>
-    <a href="#">Green Peas</a>
-    <a href="#">Penuts</a>
-    <a href="#">Dhal</a>
-    <a href="#">Urad Dhal</a>
-    <a href="#">Moong Dhal</a>
-    <a href="#">Lobia</a>
-    <a href="#">...</a>
-  </div>
-</div>
-
-<div class="dropdown">
-  <button class="dropbtn"><a href="milkitems.php">Milk Products</a></button>
-  <div class="dropdown-content">
-    <a href="#">Milk</a>
-    <a href="#">Ghee</a>
-	<a href="#">Butter</a>
-    <a href="#">Cheese</a>
-  </div>
-</div>
-
-</div>
-<!-- End Items Menu Section -->
-<br>
-<!-- Types -->
-
-<div class="container">
-	<div class="brdr clearfix">
-		<img class="img2" src="images/bs.png" alt="" width="200px" height="138px"><br>
-		<h5><span style="padding-top:50px;padding-left:15px;">Basmathi Rice</h5></span>
-		<h6><span style="padding-left:15px; color:#bfbfbf;vertical-align:middle;"> Long and beautiful </h6></span><span style="padding-left:15px;">&#8377;50/kg</span>
-		<span style="padding-left:120px;"><input id="minus" type="button" class="minus" value="-">
-  <input id="theInput" type="number" size="4" class="tb" title="Qty" value="0" min="0" step="1">
-  <input id="plus" type="button" class="plus" value="+"></span>
-	</div>
-	<span style="padding-left:50px"></span>
-	<div class="brdr clearfix">
-		<img class="img2" src="images/wr.png" alt="" width="200" height="138px"><br>
-		<h5><span style="padding-left:15px;">Polished Rice</h5></span>
-		<h6><span style="padding-left:15px; color:#bfbfbf;">Beautiful White Rice</h6></span><span style="padding-left:15px;">&#8377;50/kg</span>
-		<span style="padding-left:120px;"><input id="minus" type="button" class="minus" value="-">
-  <input id="theInput" type="number" size="4" class="tb" title="Qty" value="0" min="0" step="1">
-  <input id="plus" type="button" class="plus" value="+"></span>
-	</div>
-	<br><br>
-	<div class="brdr clearfix">
-		<img class="img2" src="images/pr.png" alt="" width="200" height="138px"><br>
-		<h5><span style="padding-left:15px;">Semi-Polished Rice</h5> </span>
-		<h6><span style="padding-left:15px; color:#bfbfbf;">Ponni Rice</h6></span><span style="padding-left:15px;">&#8377;50/kg</span>
-		<span style="padding-left:120px;"><input id="minus" type="button" class="minus" value="-">
-  <input id="theInput" type="number" size="4" class="tb" title="Qty" value="0" min="0" step="1">
-  <input id="plus" type="button" class="plus" value="+"></span>
-	</div>
-		<span style="padding-left:50px"></span>
-	<div class="brdr clearfix">
-		<img class="img2" src="images/br.png" alt="" width="200" height="138px"><br>
-		<h5><span style="padding-left:15px;">Unpolished Rice</h5></span>
-		<h6><span style="padding-left:15px;color:#bfbfbf;">Brown Rice</h6></span>
-		<span style="padding-left:15px;">&#8377;50/kg</span>
-		<span style="padding-left:120px;"><input id="minus" type="button" class="minus" value="-">
-  <input id="theInput" type="number" size="4" class="tb" title="Qty" value="0" min="0" step="1">
-  <input id="plus" type="button" class="plus" value="+"></span>
-	</div>
+	<p><span style="font-family: 'Pacifico', cursive; font-size:40px;"> Help & FAQ's </span></p>
 	
-</div>
+	<!-- Inner body -->
+	
+	<section class="saction3">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12">
+        <div class="ordaring">
+          <h2 class="os-animation" data-os-animation="zoomIn" data-os-animation-delay="0.50s">Ordering item was never so easy</h2>
+          <div class="dotted os-animation" data-os-animation="bounceInLeft" data-os-animation-delay="1s"></div>
+          <p class="os-animation" data-os-animation="zoomIn" data-os-animation-delay="0.50s">Just 4 steps to follow</p>
+          <div class="dotted1 os-animation" data-os-animation="bounceInRight" data-os-animation-delay="1s"></div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-3 col-sm-6">
+        <figure class="step os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.50s"> <img src="images/one.png" alt="" /> </figure>
+        <div class="arrow" > <img src="images/arrow.png" alt="" /> </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-6">
+        <figure class="step os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="1.5s"> <img src="images/two.png" alt="" /> </figure>
+        <div class="arrow1 "> <img src="images/arrow.png" alt="" /> </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-6">
+        <figure class="step os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="2.5s"> <img src="images/thrww.png" alt="" /> </figure>
+        <div class="arrow"> <img src="images/arrow.png" alt="" /> </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-6">
+        <figure class="step1 os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="3.5s"> <img src="images/four.png" alt="" /> </figure>
+      </div>
+    </div>
+  </div>
+</section>
 
-<!-- End Types -->
+	</div>
+
+<!-- End Inner Body -->
 </section>
 <!-- Footer Section -->
 
