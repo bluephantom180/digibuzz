@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html land="en">
+<head>
+	<meta charset="utf-8" />
+		<title>sliding image</title>
+	<meta name="viewport" content="width=divice-width, initial-scale=1.0" />
+	<link rel="stylesheet" href="blueberry.css" />
+		<style type="text/css">
+*{
+	margin:0;
+	border:0;
+	padding:0;
+}
+img{
+	text-align: center;
+	max-width:100%;
+	height: auto;
+	width: auto;
+}
+
+.current{
+	color:#fff;
+	text-decoration: underline;
+}
+#doc{
+	margin:40px 0;
+}
+#content{
+	margin:0 auto;
+	max-width: 1140px;
+	marin-top:110px;
+}
+.blueberry{
+	max-width:960px;
+	margin-top: 110px;
+}
+
+
+		</style>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+		<script src="jquery.blueberry.js"></script>
+		<script>
+		$(window).load(function(){
+			$('.blueberry').blueberry();
+		});
+
+	</script>
+</head>
+<body>
+	<!-- the image will change automatic after 5 sec -->
+<div id="doc">
+<div id="content">
+<div class="blueberry">
+<ul class="slides">
+	<li> <img src="inside-gym.png" /></li>
+	<li> <img src="push-ups.png" /></li>
+	<li> <img src="chest-fly.png" /></li>
+	<li> <img src="training.png" /></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+		</body>
+		</html>
